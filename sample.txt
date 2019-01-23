@@ -1,0 +1,7 @@
+git init #initializes a git repository
+
+Basic workflow (working locally)
+
+1. make some edits to file
+2. >git add -A #adds file to the index. Readies them for commit
+3. >git commit -m "<commit message>"
